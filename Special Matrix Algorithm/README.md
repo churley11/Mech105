@@ -10,7 +10,7 @@ This special matrix algorithm returns an n by m matrix that contain elements con
 - m = Number of desired columns
 
 ## Outputs
-- A = Matrix that exhibits columns 1:m, rows 1:n, and elements determined from the summation of the element above it and to the left of it in the matrix. 
+- A = Matrix that exhibits the characteristics listed in the above description. 
 
 ## Limitations
 The user must input two arguments:
