@@ -1,5 +1,5 @@
 # **Simpson's 1/3 Algorithm Description**
-Simpson's 1/3 rule is a numerical method that can be employed to calculate an estimate value of an integral. In this algorithm, two data sets are used to find the numerical integral of the data. However, it is important that the independent data used in this algorithm is equally spaced and consists of the same number of data points as the dependent data. 
+Simpson's 1/3 rule is a numerical method that can be employed to calculate an estimate value of an integral. In this algorithm, two data sets are used to find the numerical integral of the data. However, it is important that the independent data used is equally spaced and consists of the same number of data points as the dependent data. 
 
 ## Inputs
 - x = the vector of equally spaced independent variable
