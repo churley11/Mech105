@@ -1,2 +1,3 @@
 # Mech105
-This repository contains work I have completed in (MECH 105) Mechanical Engineering: Problem Solving (First-Year, Second Semester)
+This repository contains work I have completed in Mechanical Engineering: Problem Solving (MECH 105).
+(Freshman Year, Second Semester)
