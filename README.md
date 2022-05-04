@@ -1,4 +1,4 @@
 # Mech105
 This repository contains work I have completed in Mechanical Engineering: Problem Solving (MECH 105).
 
-*Freshman Year, Second Semester*
+*2021-2022 Freshman Year, Second Semester*
