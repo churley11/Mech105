@@ -1,5 +1,5 @@
 # **Linear Regression Algorithm Description**
-The linear regression algorithm uses two input matrices (independent and dependent data sets) in order to determine the linear regression of the data ("line of best fit"). First, the algorithm sorts the data and gets rid of any pesky outliers from the data sets. Then from the filterd data, statistics are used to create the regression line. Finally, the algorithm also finds the R^2 value of the regression line. This value is a direct measure of how well the regression line corresponds to the "trend" of the data. 
+The linear regression algorithm uses two input matrices (independent and dependent data sets) in order to determine the linear regression of the data ("line of best fit"). First, the algorithm sorts the data and gets rid of any pesky outliers from the data sets. From the filtered data sets, statistical values are determined and manipulated to create the regression line. Finally, the algorithm also finds the R^2 value of the regression line. This value is a direct measure of how well the regression line corresponds to the "trend" of the data. 
 
 ## Inputs
 - x = x-values for our data set
