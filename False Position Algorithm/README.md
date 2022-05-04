@@ -5,7 +5,7 @@ By employing two guesses of where a function might have a root, this algorithm i
 - func = anonymous function you are interested in finding the root of
 - xl = lower guess
 - xu = upper guess
-- es = stopping criterion (when ea passes below this value, stop iterations
+- es = stopping criterion (when ea passes below this value, stop iterations)
 - maxit = maximum number of iterations you want to perform (when number of iterations exceeds this number, stop iterations)
 - varargin = . . . any additional parameters used by the function
 
